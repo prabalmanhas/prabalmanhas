@@ -9,9 +9,7 @@
 
 ### • 🔭 I’m currently working on **Arduino UNO, Cyber Security, Python & Web Development Projects.**
 
-### • 🌱 I’m currently learning **Mobile Forensics, Microprocessors & Microcontrollers, Operating Systems, Wireshark etc.**
-
-### • 👨‍💻 All of my projects are available at [github.com/prabalmanhas?tab=repositories](github.com/prabalmanhas?tab=repositories)
+### • 🌱 I’m currently learning **Mobile Forensics, Microprocessors & Microcontrollers, OS, Wireshark etc.**
 
 ### • 📝 I regularly write articles on Cyber Safety, Internet of Things & Kali Linux.
 
