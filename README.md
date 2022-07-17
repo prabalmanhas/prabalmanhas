@@ -15,9 +15,9 @@
 
 ### • 💬 Ask me about **DSA, Engineering Graphics, IoT, Programming.**
 
-### • 📮 How to reach me **prabal.manhas@outlook.com**
+### • 📮 How to reach me: **prabal.manhas@outlook.com**
 
-### • 💡 Fun fact **Sagittarius is a perfectionist.**
+### • 💡 Fun fact: **Sagittarius is a perfectionist.**
 
 ## 🌐 Socials:
 <p align="left">
