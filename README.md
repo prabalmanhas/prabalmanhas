@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prabalmanhas&label=Profile%20views&color=0e75b6&style=plastic" alt="prabalmanhas" /> </p>
 
+![banner](prabal-manhas-github.png)
+
 # 💼 About Me:
 
 ### • 🔭 I’m currently working on **Arduino UNO, Cyber Security, Python & Web Development Projects.**
