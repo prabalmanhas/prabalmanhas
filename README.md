@@ -14,7 +14,7 @@
 <img alt="Wave" src="https://user-images.githubusercontent.com/18665370/170464805-507311d0-6d8a-4658-a249-4429b2586cc6.gif" width='40' align="left"/><h2>Hello. I'm Prabal Manhas</h2>
 ## 👤 About
 - __😄 Pronouns :__ he/him
-- 🎓 __Pursuing :__ Pursuing Bachelor's in Computer Science
+- 🎓 __Pursuing :__ Bachelor's in Computer Science (Hons.) IBM - Internet of Things
 - __🔭 I’m currently working on :__ IoT, Cyber Security Projects.
 - __🌱 I’m currently learning :__ Automata, Artificial Intelligence, Machine Learning.
 - __💬 Ask me about :__ C/C++, Algorithms, Data Structures, Ethical Hacking, Networking, Operating Systems.
