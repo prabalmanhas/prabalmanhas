@@ -18,12 +18,11 @@
 - __🔭 I’m currently working on :__ IoT, Cyber Security Projects.
 - __🌱 I’m currently learning :__ Automata, Artificial Intelligence, Machine Learning.
 - __💬 Ask me about :__ C/C++, Algorithms, Data Structures, Ethical Hacking, Networking, Operating Systems.
-- __📫 How to reach me :__ [Ping Me on LinkedIn](https://linkedin.com/in/manhasprabal)
-- __📝 My publications :__ [![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prabal-Manhas)
+- __📫 How to reach me : [Ping Me on LinkedIn](https://linkedin.com/in/manhasprabal)__
+- __📝 My publications : [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas)__
 
 ## 🌏 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabalmanhas) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prabalmanhas) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/prabalmanhas) [![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prabal-Manhas)
-
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prabal-Manhas) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/prabalmanhas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabalmanhas) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prabalmanhas)
 ## 💻 Tech Stack
 __Languages__
 
