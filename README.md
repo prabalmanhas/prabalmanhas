@@ -15,9 +15,9 @@
 ## 👤 About
 - __😄 Pronouns :__ he/him
 - 🎓 __Pursuing :__ Bachelor's in Computer Science, IBM (Hons.) Internet of Things
-- __🔭 I’m currently working on :__ IoT, Cyber Security Projects.
-- __🌱 I’m currently learning :__ Automata, Artificial Intelligence, Machine Learning.
-- __💬 Ask me about :__ C/C++, Algorithms, Data Structures, Ethical Hacking, Networking, Operating Systems.
+- __🔭 I’m currently working on :__ IoT, Cyber Security Projects
+- __🌱 I’m currently learning :__ Automata, Artificial Intelligence, Machine Learning
+- __💬 Ask me about :__ C/C++, Algorithms, Data Structures, Ethical Hacking, Networking, Operating Systems
 - __📫 How to reach me : [Ping Me on LinkedIn](https://linkedin.com/in/manhasprabal)__
 - __📝 My publications : [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas)__
 
