@@ -53,8 +53,8 @@ __Others__
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🚀 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabalmanhas&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prabalmanhas&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabalmanhas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prabalmanhas&theme=tokyonight&hide_border=true)<br/>
 
 
 
