@@ -1,14 +1,6 @@
 <!-- DO NOT COPY ©-->
 <!-- PRABAL MANHAS®-->
 
-
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in/api?id=prabalmanhas&icon=2&color=1">
-    <img src="https://visitcount.itsvg.in/api?id=prabalmanhas&icon=2&color=1" alt="Visit Count" />
-  </a>
-</div>
-
 ![Banner](https://github.com/prabalmanhas/prabalmanhas/blob/main/banner.png)
 
 <img alt="Wave" src="https://user-images.githubusercontent.com/18665370/170464805-507311d0-6d8a-4658-a249-4429b2586cc6.gif" width='40' align="left"/><h2>Greetings! I'm Prabal Manhas</h2>
