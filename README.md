@@ -4,7 +4,7 @@
 ![Banner](https://github.com/prabalmanhas/prabalmanhas/blob/main/banner.png)
 
 <img alt="Wave" src="https://user-images.githubusercontent.com/18665370/170464805-507311d0-6d8a-4658-a249-4429b2586cc6.gif" width='40' align="left"/><h2>Greetings! I'm Prabal Manhas</h2>
-## 👤 About
+## 💼 About
 - __😄 Pronouns :__ he/him
 - 🎓 __Pursuing :__ Bachelor's in Computer Science, IBM (Hons.) Internet of Things
 - __🔭 I’m currently working on :__ IoT, Cyber Security Projects
@@ -45,8 +45,8 @@ __Others__
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 🚀 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabalmanhas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prabalmanhas&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabalmanhas&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prabalmanhas&theme=default&hide_border=true)<br/>
 
 
 
