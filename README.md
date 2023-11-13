@@ -10,8 +10,8 @@
 - __🔭 I’m currently working on :__ IoT, Cyber Security Projects
 - __🌱 I’m currently learning :__ Automata, Machine Learning
 - __💬 Ask me about :__ C/C++, Algorithms, Data Structures, Ethical Hacking, Networking, Operating Systems
-- __📫 How to reach me : [Ping Me on LinkedIn](https://linkedin.com/in/manhasprabal)__
-- __📝 My publications : [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas)__
+- __📫 How to reach me : [Connect on LinkedIn](https://linkedin.com/in/manhasprabal)__
+- __📝 My publications : [GoogleScholar](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas)__
 
 ## 🌏 Socials
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prabal-Manhas) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/prabalmanhas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabalmanhas) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prabalmanhas)
