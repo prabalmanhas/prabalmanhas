@@ -14,7 +14,7 @@
 - __📝 My publications : [GoogleScholar](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas)__
 
 ## 🌏 Socials
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?style=plastic&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prabal-Manhas) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=plastic&logo=leetcode&logoColor=white)](https://www.leetcode.com/prabalmanhas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabalmanhas) [![Medium](https://img.shields.io/badge/Medium-12100E?style=plastic&logo=medium&logoColor=white)](https://medium.com/@prabalmanhas) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?style=plastic&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prabal-Manhas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabalmanhas) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en)
 
 ## 💻 Tech Stack
 __Languages__
