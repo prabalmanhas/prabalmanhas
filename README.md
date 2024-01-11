@@ -10,7 +10,7 @@
 - __🌱 I’m currently learning :__ Automata, Machine Learning
 - __💬 Ask me about :__ C/C++, Algorithms, Data Structures, Ethical Hacking, Networking, Operating Systems
 - __📫 How to reach me : [Connect on LinkedIn](https://linkedin.com/in/manhasprabal)__
-- __📝 My publications : [GoogleScholar](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas)__
+- __📝 My publications : [Google Scholar](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas)__
 
 ## 🌏 Socials
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?style=plastic&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prabal-Manhas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabalmanhas) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en)
