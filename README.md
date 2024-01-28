@@ -1,6 +1,5 @@
 <!-- PRABAL MANHAS®-->
 
-![prabalmanhasgithub](https://github.com/prabalmanhas/prabalmanhas/blob/main/welcome.png)
 ![GitHub Views](https://komarev.com/ghpvc/?username=prabalmanhas&color=FAC151)
 
 <img alt="Wave" src="https://user-images.githubusercontent.com/18665370/170464805-507311d0-6d8a-4658-a249-4429b2586cc6.gif" width='40' align="left"/><h2>Greetings! I'm Prabal Manhas</h2>
