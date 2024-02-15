@@ -2,7 +2,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=prabalmanhas&color=FAC151)
 ![Banner](welcome.png)
-<img alt="Wave" src="https://user-images.githubusercontent.com/18665370/170464805-507311d0-6d8a-4658-a249-4429b2586cc6.gif" width='40' align="left"/><h2>Greetings! I'm Prabal Manhas</h2>
+
 ## 💼 About
 - 🎓 __Pursuing :__ Bachelor's in Computer Science, IBM (Hons.) Internet of Things
 - __🔭 I’m currently working on :__ IoT, Cyber Security Projects
@@ -12,7 +12,11 @@
 - __📝 My publications : [Google Scholar](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas)__
 
 ## 🌏 Socials
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?style=plastic&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Prabal-Manhas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/prabalmanhas) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=plastic&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-%230078D4.svg?style=plastic&logo=ieee&logoColor=white&labelColor=black)](https://ieeexplore.ieee.org/author/793194425843626)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?style=plastic&logo=researchgate&logoColor=white&labelColor=black)](https://www.researchgate.net/profile/Prabal-Manhas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/prabalmanhas)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=plastic&logo=google-scholar&logoColor=white&labelColor=black)](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en)
+
 
 ## 💻 Tech Stack
 __Languages__
@@ -45,5 +49,6 @@ __Others__
 
 ## 🚀 Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabalmanhas&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabalmanhas&show_icons=true&locale=en&layout=compact" alt="prabalmanhas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabalmanhas&show_icons=true&locale=en" alt="prabalmanhas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabalmanhas&" alt="prabalmanhas" /></p>
