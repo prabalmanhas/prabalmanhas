@@ -1,5 +1,3 @@
-<!-- PRABAL MANHAS®-->
-
 ![GitHub Views](https://komarev.com/ghpvc/?username=prabalmanhas&color=FAC151)
 ![Banner](welcome.png)
 
@@ -7,9 +5,9 @@
 - 🎓 __Pursuing :__ Bachelor's in Computer Science, IBM (Hons.) Internet of Things
 - __🔭 I’m currently working on :__ IoT, Cyber Security Projects
 - __🌱 I’m currently learning :__ Automata, Machine Learning
-- __💬 Ask me about :__ C/C++, Algorithms, Data Structures, Ethical Hacking, Networking, Operating Systems
-- __📫 How to reach me : [Connect on LinkedIn](https://linkedin.com/in/manhasprabal)__
-- __📝 My publications : [Google Scholar](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en) [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas)__
+- __💬 Ask me about :__ C/C++, Algorithms, Data Structures, Ethical Hacking, IoT, Networking, Operating Systems
+- __📫 How to reach me : [LinkedIn](https://linkedin.com/in/manhasprabal)__
+- __📝 My publications : [Google Scholar](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas) | [IEEE Explore](https://ieeexplore.ieee.org/author/793194425843626)__
 
 ## 🌏 Socials
 [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-%230078D4.svg?style=plastic&logo=ieee&logoColor=white&labelColor=black)](https://ieeexplore.ieee.org/author/793194425843626)
