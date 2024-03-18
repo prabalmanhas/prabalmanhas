@@ -12,7 +12,7 @@
 ## 🌏 Socials
 [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-%230078D4.svg?style=plastic&logo=ieee&logoColor=white&labelColor=black)](https://ieeexplore.ieee.org/author/793194425843626)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?style=plastic&logo=researchgate&logoColor=white&labelColor=black)](https://www.researchgate.net/profile/Prabal-Manhas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/prabalmanhas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/manhasprabal)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=plastic&logo=google-scholar&logoColor=white&labelColor=black)](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en)
 
 
