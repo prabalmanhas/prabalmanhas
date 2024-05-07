@@ -1,7 +1,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=prabalmanhas&color=FAC151)
 ![Banner](welcome.png)
 
-## 💼 About
+## 💼 About:
 - 🎓 __Pursuing :__ Bachelor's in Computer Science, IBM (Hons.) Internet of Things
 - __🔭 I’m currently working on :__ IoT, Cyber Security Projects
 - __🌱 I’m currently learning :__ Automata, Machine Learning
@@ -9,7 +9,7 @@
 - __📫 How to reach me : [LinkedIn](https://linkedin.com/in/manhasprabal)__
 - __📝 My publications : [Google Scholar](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas) | [IEEE Explore](https://ieeexplore.ieee.org/author/793194425843626)__
 
-## 🌏 Socials
+## 🗃️ Profiles:
 [![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=plastic&logo=orcid&logoColor=white&labelColor=black)](https://orcid.org/0009-0008-0386-7677)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=plastic&logo=google-scholar&logoColor=white&labelColor=black)](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en)
 [![Scopus](https://img.shields.io/badge/Scopus-%230077C7.svg?style=plastic&logo=scopus&logoColor=white&labelColor=black)](https://www.scopus.com/authid/detail.uri?authorId=58893621100)
@@ -17,7 +17,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?style=plastic&logo=researchgate&logoColor=white&labelColor=black)](https://www.researchgate.net/profile/Prabal-Manhas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/manhasprabal)
 
-## 💻 Tech Stack
+## ⌨️ Tech-Stack:
 __Languages__
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white)
@@ -46,7 +46,8 @@ __Others__
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![NodeMCU ESP8266](https://img.shields.io/badge/NodeMCU%20ESP8266-%233DB06F.svg?style=plastic&logo=nodemcu&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23821015.svg?style=plastic&logo=autodesk&logoColor=white) ![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-%230070BA.svg?style=plastic&logo=ibm&logoColor=white) ![R Studio](https://img.shields.io/badge/R%20Studio-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=plastic&logo=mathworks&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-%23007BB5.svg?style=plastic&logo=windows&logoColor=white)
 
-## 🚀 Stats
+## 📊 Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabalmanhas&show_icons=true&locale=en&layout=compact" alt="prabalmanhas" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabalmanhas&" alt="prabalmanhas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabalmanhas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prabalmanhas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabalmanhas&theme=tokyonight" alt="prabalmanhas" /></p>
+
