@@ -10,11 +10,12 @@
 - __📝 My publications : [Google Scholar](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas) | [IEEE Explore](https://ieeexplore.ieee.org/author/793194425843626)__
 
 ## 🌏 Socials
+[![ORCID](https://img.shields.io/badge/ORCID-%23A6CE39.svg?style=plastic&logo=orcid&logoColor=white&labelColor=black)](https://orcid.org/0009-0008-0386-7677)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=plastic&logo=google-scholar&logoColor=white&labelColor=black)](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en)
+[![Scopus](https://img.shields.io/badge/Scopus-%230077C7.svg?style=plastic&logo=scopus&logoColor=white&labelColor=black)](https://www.scopus.com/authid/detail.uri?authorId=58893621100)
 [![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-%230078D4.svg?style=plastic&logo=ieee&logoColor=white&labelColor=black)](https://ieeexplore.ieee.org/author/793194425843626)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-%234CAF50.svg?style=plastic&logo=researchgate&logoColor=white&labelColor=black)](https://www.researchgate.net/profile/Prabal-Manhas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/manhasprabal)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?style=plastic&logo=google-scholar&logoColor=white&labelColor=black)](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en)
-
 
 ## 💻 Tech Stack
 __Languages__
