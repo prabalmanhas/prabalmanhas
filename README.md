@@ -1,6 +1,6 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=prabalmanhas&color=FAC151)
 ![Banner](welcome.png)
-<h1><img src="https://github.com/prabalmanhas/prabalmanhas/blob/main/waving.gif" height = "50" width="50"/> Hey there! Welcome to My Profile.</h1>
+## <img align="center" src="https://github.com/prabalmanhas/prabalmanhas/blob/main/waving.gif" width="33"> Hey there! Welcome to My Profile.
 
 ## 💼 About:
 - 🎓 __Pursuing :__ Bachelor's in Computer Science, IBM (Hons.) Internet of Things
