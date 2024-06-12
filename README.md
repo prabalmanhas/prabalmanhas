@@ -3,9 +3,9 @@
 ## <img align="center" src="https://github.com/prabalmanhas/prabalmanhas/blob/main/waving.gif" width="33"> Hey there! Welcome to My Profile.
 
 ## 💼 About:
-- 🎓 __Pursuing :__ Bachelor's in Computer Science, IBM (Hons.) Internet of Things
-- __🔭 I’m currently working on :__ IoT, Cyber Security Projects
-- __🌱 I’m currently learning :__ Automata, Machine Learning
+- 🎓 __Bachelor's :__ in Computer Science & Engineerig - IBM (Hons.) Internet of Things
+- __🔭 I’m currently working on :__ Embedded Systems
+- __🌱 I’m currently learning :__ Software Engineering
 - __💬 Ask me about :__ C/C++, Algorithms, Data Structures, Ethical Hacking, IoT, Networking, Operating Systems
 - __📫 How to reach me : [LinkedIn](https://linkedin.com/in/manhasprabal)__
 - __📝 My publications : [Google Scholar](https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Prabal-Manhas) | [IEEE Explore](https://ieeexplore.ieee.org/author/793194425843626)__
