@@ -3,7 +3,7 @@
 ## <img align="center" src="https://github.com/prabalmanhas/prabalmanhas/blob/main/waving.gif" width="33"> Hey there! Welcome to My Profile.
 
 ## 💼 About:
-- 🎓 __Bachelor's :__ in Computer Science & Engineerig - IBM (Hons.) Internet of Things
+- 🎓 __Bachelor's :__ in Computer Science & Engineering - IBM (Hons.) Internet of Things
 - __🔭 I’m currently working on :__ Embedded Systems
 - __🌱 I’m currently learning :__ Software Engineering
 - __💬 Ask me about :__ C/C++, Algorithms, Data Structures, Ethical Hacking, IoT, Networking, Operating Systems
