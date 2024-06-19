@@ -1,4 +1,5 @@
-[![Connect on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manhasprabal)
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manhasprabal)
+
 ![GitHub Views](https://komarev.com/ghpvc/?username=prabalmanhas&color=FAC151)
 ![Banner](welcome.png)
 ## <img align="center" src="https://github.com/prabalmanhas/prabalmanhas/blob/main/waving.gif" width="33"> Hey there! Welcome to My Profile.
