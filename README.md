@@ -47,8 +47,7 @@ __Others__
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![NodeMCU ESP8266](https://img.shields.io/badge/NodeMCU%20ESP8266-%233DB06F.svg?style=plastic&logo=nodemcu&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23821015.svg?style=plastic&logo=autodesk&logoColor=white) ![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-%230070BA.svg?style=plastic&logo=ibm&logoColor=white) ![R Studio](https://img.shields.io/badge/R%20Studio-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=plastic&logo=mathworks&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-%23007BB5.svg?style=plastic&logo=windows&logoColor=white)
 
-## 📊 Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabalmanhas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prabalmanhas" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabalmanhas&theme=tokyonight" alt="prabalmanhas" /></p>
 
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manhasprabal)
