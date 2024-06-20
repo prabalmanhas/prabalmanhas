@@ -1,11 +1,9 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=prabalmanhas&color=FAC151)
-
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manhasprabal)
 ![Banner](welcome.png)
 ## <img align="center" src="https://github.com/prabalmanhas/prabalmanhas/blob/main/waving.gif" width="33"> Hey there! Welcome to My Profile.
 
 ## 💼 About:
-- __🎓 Bachelor's :__ I've recently earned a Bachelor's degree in Computer Science & Engineering with a specialization in IBM (Hons.) Internet of Things. My academic journey has been centered around deciphering technical intricacies to build efficient projects and conducting comprehensive research to achieve meaningful results
+I've recently earned a __Bachelor's degree in Computer Science & Engineering with a specialization in IBM (Hons.) Internet of Things__. My academic journey has been centred around deciphering technical intricacies to build efficient projects and conducting comprehensive research to achieve meaningful results
 - __🔭 I’m currently working on :__ Embedded Systems
 - __🌱 I’m currently learning :__ Software Engineering
 - __💬 Ask me about :__ C/C++, Algorithms, Data Structures, Ethical Hacking, IoT, Networking, Operating Systems
