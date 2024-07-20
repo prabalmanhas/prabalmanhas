@@ -1,15 +1,14 @@
-<div align="center"> <!-- Center align the content -->
-  <h3>Hello There!👋 I am Prabal Manhas.</h3> <!-- Center aligned main text -->
-  
-  <p style="font-size: smaller;">CS Grad. - IBM (Hons.) Internet of Things</p> <!-- Slightly smaller text -->
-
-  <img src="." alt="Your Image" /> <!-- Replace src attribute with your image URL -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/prabalmanhas/count.svg?"  />
 </div>
 
 ###
+<div align="center"> <!-- Center align the content -->
+  <h3>Hey there! I am Prabal Manhas.</h3> <!-- Center aligned main text -->
+  
+  <p style="font-size: smaller;">CS Grad. - IBM (Hons.) Internet of Things</p> <!-- Slightly smaller text -->
 
-<div align="center">
-  <img height="200" src=""  />
+  <img src="https://github.com/prabalmanhas/prabalmanhas/blob/main/template.png" alt="Your Image" /> <!-- Replace src attribute with your image URL -->
 </div>
 
 ### 📐 Tech-Stack:
@@ -113,16 +112,20 @@
 
 ### 🌐 Connect with Me:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  <a href="https://your-devto-profile-url" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"></a>
+  <a href="https://linkedin.com/in/manhasprabal" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"></a>
+  <a href="https://your-medium-profile-url" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"></a>
+  <a href="mailto:your-email-address" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"></a>
+  <a href="https://stackoverflow.com/users/your-stackoverflow-userid" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"></a>
+  <a href="https://your-slack-profile-url" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"></a>
+</div>
+
 </div>
 
 ### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/snake.svg" alt="Snake animation" />
 
 ###
