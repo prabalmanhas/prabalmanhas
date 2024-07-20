@@ -1,7 +1,9 @@
-### Hello There!👋 I am Prabal Manhas.
+<div align="center"> <!-- Center align the content -->
+  <h3>Hello There!👋 I am Prabal Manhas.</h3> <!-- Center aligned main text -->
+  
+  <p style="font-size: smaller;">CS Grad. - IBM (Hons.) Internet of Things</p> <!-- Slightly smaller text -->
 
-<div align="left">
-  <img src="."  />
+  <img src="." alt="Your Image" /> <!-- Replace src attribute with your image URL -->
 </div>
 
 ###
@@ -107,8 +109,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
 ### 🌐 Connect with Me:
