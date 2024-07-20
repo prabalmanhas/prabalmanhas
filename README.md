@@ -6,7 +6,7 @@
 <div align="center"> <!-- Center align the content -->
   <h3>Hey there! I am Prabal Manhas.</h3> <!-- Center aligned main text -->
   
-  <p style="font-size: smaller;">CS Grad. - IBM (Hons.) Internet of Things</p> <!-- Slightly smaller text -->
+  <p style="font-size: smaller;">Computer Science Engineering Grad. - IBM (Hons.) Internet of Things</p> <!-- Slightly smaller text -->
 
   <img src="https://github.com/prabalmanhas/prabalmanhas/blob/main/template.png" alt="Your Image" /> <!-- Replace src attribute with your image URL -->
 </div>
