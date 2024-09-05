@@ -123,5 +123,6 @@
   <img src="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/snake.svg" alt="Snake animation" />
 </p>
 
+### 📈 Graph:
 
-###
+[![PrabalGitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabalmanhas&theme=github-compact)](https://github.com/prabalmanhas/github-readme-activity-graph)
