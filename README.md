@@ -108,14 +108,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-### 🌐 Socials:
-<p align="left">
-<a href="https://orcid.org/0009-0008-0386-7677" target="blank"><img align="center" src="https://camo.githubusercontent.com/0559665f013deefe1972d3da50df8d6e62f070bd93b70f1576335067e26e8641/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6f726369642e737667" alt="0009-0008-0386-7677" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=F96Wb2MAAAAJ&hl=en" target="blank"><img align="center" src="https://camo.githubusercontent.com/fab9fd3d50ddd7f2dc64ba77e2668498a3fac1b77c55ad8c1311e5c7cee2033e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c655f7363686f6c61722e737667" alt="F96Wb2MAAAAJ" height="30" width="40" /></a>
-<a href="https://www.researchgate.net/profile/Prabal-Manhas" target="blank"><img align="center" src="https://camo.githubusercontent.com/537292a10b8ae64a3ac43b4b72de2a5cf2a06655560af44ec7b53c6127ac2dbb/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265736561726368676174652e737667" alt="Prabal-Manhas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manhasprabal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manhasprabal" height="30" width="40" /></a>
-</p>
-
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/snake.svg" alt="Snake animation" />
