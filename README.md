@@ -10,7 +10,7 @@
 </div>
 
 ### 📐 Tech-Stack:
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
@@ -108,23 +108,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+### 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="margin-right: 10px;">
     <a href="https://quira.sh?utm_source=widgets&utm_campaign=randomgituser">
       <img src="https://stats.quira.sh/randomgituser/github?theme=dark" alt="randomgituser's GitHub | Stats" />
     </a>
   </div>
-  <div style="margin-left: 10px;">
+  <div style="margin-right: 10px;">
     <a href="https://quira.sh?utm_source=widgets&utm_campaign=randomgituser">
       <img src="https://stats.quira.sh/randomgituser/languages-over-time?theme=dark" alt="randomgituser's GitHub | Languages Over Time" />
     </a>
   </div>
 </div>
-
-<p align="center">
+  <p align="left">
   <img src="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/snake.svg" alt="Snake animation" />
 </p>
-
-### 📈 Graph:
-
-[![PrabalGitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabalmanhas&theme=github-compact)](https://github.com/prabalmanhas/github-readme-activity-graph)
