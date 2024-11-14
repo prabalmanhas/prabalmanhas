@@ -1,9 +1,9 @@
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/prabalmanhas/count.svg?"  />
 </div>
 
 ###
-<div align="center"> <!-- Center align the content -->  
+<div align="left"> <!-- Center align the content -->  
   <p style="font-size: smaller;">Computer Science Engineering Grad. - IBM (Hons.) Internet of Things</p> <!-- Slightly smaller text -->
 
   <img src="https://github.com/prabalmanhas/prabalmanhas/blob/main/template.png" alt="Your Image" /> <!-- Replace src attribute with your image URL -->
@@ -108,9 +108,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-### 📊 GitHub Stats:
-[![randomgituser's GitHub | Stats](https://stats.quira.sh/randomgituser/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=randomgituser)
-[![randomgituser's GitHub | Languages Over Time](https://stats.quira.sh/randomgituser/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=randomgituser)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="margin-right: 10px;">
+    <a href="https://quira.sh?utm_source=widgets&utm_campaign=randomgituser">
+      <img src="https://stats.quira.sh/randomgituser/github?theme=dark" alt="randomgituser's GitHub | Stats" />
+    </a>
+  </div>
+  <div style="margin-left: 10px;">
+    <a href="https://quira.sh?utm_source=widgets&utm_campaign=randomgituser">
+      <img src="https://stats.quira.sh/randomgituser/languages-over-time?theme=dark" alt="randomgituser's GitHub | Languages Over Time" />
+    </a>
+  </div>
+</div>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/snake.svg" alt="Snake animation" />
 </p>
