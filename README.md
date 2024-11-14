@@ -109,6 +109,8 @@
 </div>
 
 ### 📊 GitHub Stats:
+[![randomgituser's GitHub | Stats](https://stats.quira.sh/randomgituser/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=randomgituser)
+[![randomgituser's GitHub | Languages Over Time](https://stats.quira.sh/randomgituser/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=randomgituser)
 <p align="center">
   <img src="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/snake.svg" alt="Snake animation" />
 </p>
