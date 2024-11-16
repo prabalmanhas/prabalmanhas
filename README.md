@@ -1,16 +1,16 @@
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/prabalmanhas/count.svg?"  />
 </div>
 
 ###
-<div align="left"> <!-- Center align the content -->  
+<div align="center"> <!-- Center align the content -->  
   <p style="font-size: smaller;">Computer Science Engineering Grad. - IBM (Hons.) Internet of Things</p> <!-- Slightly smaller text -->
 
   <img src="https://github.com/prabalmanhas/prabalmanhas/blob/main/template.png" alt="Your Image" /> <!-- Replace src attribute with your image URL -->
 </div>
 
 ### 📐 Tech-Stack:
-<div align="centre">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
@@ -121,6 +121,6 @@
     </a>
   </div>
 </div>
-  <p align="left">
+  <p align="center">
   <img src="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/snake.svg" alt="Snake animation" />
 </p>
