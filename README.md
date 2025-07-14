@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/prabalmanhas/count.svg?"/>
-</div>
-
 ###
 <div align="center"> <!-- Center align the content -->  
   <p style="font-size: smaller;">Computer Science Engineering Grad. - IBM (Hons.) Internet of Things</p> <!-- Slightly smaller text -->
