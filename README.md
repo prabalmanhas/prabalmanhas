@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/prabalmanhas/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/prabalmanhas/count.svg?"/>
 </div>
 
 ###
