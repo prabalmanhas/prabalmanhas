@@ -1,8 +1,6 @@
 ###
-<div align="center"> <!-- Center align the content -->  
-  <p style="font-size: smaller;">Computer Science Engineering Grad. - IBM (Hons.) Internet of Things</p> <!-- Slightly smaller text -->
-
-  <img src="https://github.com/prabalmanhas/prabalmanhas/blob/main/template.png" alt="Your Image" /> <!-- Replace src attribute with your image URL -->
+<div align="center">
+  <img src="https://github.com/prabalmanhas/prabalmanhas/blob/main/template.png" alt="Your Image" />
 </div>
 
 ### 📐 Tech-Stack:
