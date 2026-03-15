@@ -1,7 +1,7 @@
-<h1 align="center">Hallo 👋🏻, ich bin Prabal. Willkommen auf meinem GitHub-Profil.</h1>
+<h1 align="center">Hallo 👋🏻, ich bin Prabal. Willkommen auf meinem GitHub Profil.</h1>
 <h3 align="center">M.Sc. Informatik: RPTU Kaiserslautern | B.E-CSE: IBM (Hons.) Internet of Things</h3>
 <h1 align="center">
- <img src="banner" />
+ <img src="banner.png" />
 </h1>
 <p align="center">
 <a href="https://linkedin.com/in/manhasprabal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manhasprabal" height="30" width="40" /></a>
