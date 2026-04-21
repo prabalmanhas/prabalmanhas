@@ -1,5 +1,4 @@
 <h1 align="center">Hallo 👋🏻, ich bin Prabal. Willkommen auf meinem GitHub Profil.</h1>
-<h3 align="center">M.Sc. Informatik: RPTU Kaiserslautern | B.E-CSE: IBM (Hons.) Internet of Things</h3>
 <h1 align="center">
  <img src="banner.png" />
 </h1>
