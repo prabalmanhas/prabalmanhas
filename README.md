@@ -1,7 +1,4 @@
 <h1 align="center">Hallo 👋🏻, ich bin Prabal. Willkommen auf meinem GitHub Profil.</h1>
-<h1 align="center">
- <img src="banner.png" />
-</h1>
 
 ## 🛠️ Tech Stack
 
