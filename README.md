@@ -1,5 +1,16 @@
 <h1 align="center">Hallo 👋🏻, ich bin Prabal. Willkommen auf meinem GitHub Profil.</h1>
 
+---
+
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 <p align="center">
   <img src="banner.png" alt="Banner" />
 </p>
@@ -80,5 +91,4 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prabalmanhas&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prabalmanhas&theme=gruvbox&hide_border=false)<br/>
+
