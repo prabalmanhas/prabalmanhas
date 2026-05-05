@@ -1,5 +1,10 @@
 <h1 align="center">Hallo 👋🏻, ich bin Prabal. Willkommen auf meinem GitHub Profil.</h1>
 
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
+
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
