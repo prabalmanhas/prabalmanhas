@@ -1,6 +1,13 @@
+![](https://komarev.com/ghpvc/?username=prabalmanhas&color=green)
+
 <h1 align="center">Hallo 👋🏻, ich bin Prabal. Willkommen auf meinem GitHub Profil.</h1>
+<p align="center">M.Sc. Computer Science student at Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU), specializing in Intelligent Systems.
+</p>
 
 ---
+<p align="center">
+  <img src="banner.png" alt="Banner" />
+</p>
 
 <!-- Pacman -->
 <picture>
@@ -11,13 +18,8 @@
 
 ---
 
-<p align="center">
-  <img src="banner.png" alt="Banner" />
-</p>
-
-
 ## 🛠️ Tech Stack
----
+
 ### Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
