@@ -1,3 +1,8 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prabalmanhas&color=green" alt="Profile Views" style="vertical-align:middle;"/>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/manhasprabal/" style="text-decoration:none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle;"/></a>&nbsp;&nbsp;<a href="https://orcid.org/0009-0008-0386-7677" style="text-decoration:none;"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" style="vertical-align:middle;"/></a>
 </p>
