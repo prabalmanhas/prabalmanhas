@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabalmanhas&color=green" alt="Profile Views" style="vertical-align:middle;"/></a>&nbsp;&nbsp;<a href="https://orcid.org/0009-0008-0386-7677" style="text-decoration:none;"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" style="vertical-align:middle;"/></a>
+  <img src="https://komarev.com/ghpvc/?username=prabalmanhas&color=green" alt="Profile Views" style="vertical-align:middle;"/>
 </p>
 
 <!-- Pacman -->
