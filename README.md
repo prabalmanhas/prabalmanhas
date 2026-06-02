@@ -1,18 +1,5 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabalmanhas&color=green" alt="Profile Views" style="vertical-align:middle;"/>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/manhasprabal/" style="text-decoration:none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle;"/></a>&nbsp;&nbsp;<a href="https://orcid.org/0009-0008-0386-7677" style="text-decoration:none;"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" style="vertical-align:middle;"/></a>
-</p>
-
-<h1 align="center">Hallo 👋🏻, ich bin Prabal. Willkommen auf meinem GitHub Profil.</h1>
-<p align="center">M.Sc. Computer Science student at Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU), specializing in Intelligent Systems.
-</p>
-
----
-<p align="center">
-  <img src="banner.png" alt="Banner" />
+  <img src="https://komarev.com/ghpvc/?username=prabalmanhas&color=green" alt="Profile Views" style="vertical-align:middle;"/></a>&nbsp;&nbsp;<a href="https://orcid.org/0009-0008-0386-7677" style="text-decoration:none;"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" style="vertical-align:middle;"/></a>
 </p>
 
 <!-- Pacman -->
@@ -22,11 +9,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
 ## 🛠️ Tech Stack
 
-### Programming Languages
+#### Programming Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
@@ -45,9 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
 </div>
 
----
+#### Tools & Environments
 
-### Tools & Environments
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo" />
   <img width="12" />
@@ -60,9 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
----
-
-### Web Development
+#### Web Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -73,9 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 </div>
 
----
-
-### Backend / Databases / Servers
+#### Backend / Databases / Servers
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
   <img width="12" />
@@ -88,9 +68,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" />
 </div>
 
----
-
-### Data Science / ML / AI
+#### Data Science / ML / AI
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
   <img width="12" />
@@ -101,9 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="spss logo" />
 </div>
 
----
-
-### Design / Creative Tools
+#### Design / Creative Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" />
   <img width="12" />
@@ -114,9 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo" />
 </div>
 
----
-
-### Hardware / IoT
+#### Hardware / IoT
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
   <img width="12" />
@@ -127,9 +101,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" />
 </div>
 
----
-
-### DevOps / Networking / Utilities
+#### DevOps / Networking / Utilities
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
@@ -144,9 +116,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo" />
 </div>
 
----
-
-### Misc Tools
+#### Misc Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" height="40" alt="labview logo" />
   <img width="12" />
