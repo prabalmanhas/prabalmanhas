@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=prabalmanhas&color=green" alt="Profile Views" style="vertical-align:middle;"/>
 </p>
 
+<h1 align="center">
+ <img src="linkedin-banner.png" />
+</h1>
+
 <!-- Pacman -->
 <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/prabalmanhas/prabalmanhas/output/pacman-contribution-graph.svg"> </picture>
 
