@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=prabalmanhas&color=green" alt="Profile Views" style="vertical-align:middle;"/>
 </p>
 
+<h2 align="center">
+Hallo, ich bin Prabal. Willkommen auf meinem GitHub-Profil!
+</h2>
+
 <h1 align="center">
  <img src="linkedin-banner.png" />
 </h1>
